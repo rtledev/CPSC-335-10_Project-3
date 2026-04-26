@@ -40,3 +40,28 @@ Make sure Python 3 is installed.
 And Libary collections using deque
 
 # CPSC 335 — Project 3 — Algorithm 2
+## Delivery Route Planning
+
+## Description
+This algorithm finds the cheapest delivery routes between nodes with a stop constraint being k. 
+
+
+
+## Sample Inputs
+
+routes = [
+[0, 1, 100],
+[1, 2, 100],
+[0, 2, 500]
+]
+src = 0
+dst = 2
+k = 0
+
+## Sample Outputs
+
+500
+
+## How To Run
+
+Simply run the python program and the inputs will be used to produce 200 and 500 as outputs.
